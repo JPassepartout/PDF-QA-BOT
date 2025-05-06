@@ -1,0 +1,7 @@
+langchain
+langchain-google-genai
+python-dotenv
+pdfplumber
+langchain-google-vertexai
+faiss-cpu
+google-auth
