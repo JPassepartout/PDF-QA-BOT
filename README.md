@@ -1,6 +1,6 @@
 # 📄 AI PDF Summarizer & Q&A Tool
 
-A lightweight bot lets you chat with your PDF documents using Google Gemini and semantic search.
+A lightweight tool lets you chat with your PDF documents using Google Gemini and semantic search.
 
 Example input/output:
 ```
